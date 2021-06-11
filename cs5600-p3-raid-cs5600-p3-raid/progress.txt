@@ -1,0 +1,23 @@
+14-Nov-20 - DeMastri
+    finished part 1 and mostly part 2 code
+    placeholders for test files
+    updated makefile accordingly
+    initialized this files
+
+15-Nov-20 - DeMastri
+    finished detailed part 1 testing
+    debugged part 2 (stripe) - nasty pointer error took lots of time...
+    finished detailed part 2 testing except for detail writes
+
+15-Nov-20 - DeMastri
+    finished testing stripe and raid
+    raid IS a stripe structure, leverages some code
+    changed so if any (stripe), >1 (mirror), >2 (raid) drives fail, any access fails
+        even if the read/write could be satisfied (fail drive 2 on raid, drive 1 *could* be read)
+        this is correct according to TA
+        required either "fake read" of all drives (inefficient) or use of image_test(), 
+            not sure if that was intended to be part of the public interface for image
+    finished writing the detailed test suite for all
+    will look at this for "cleanliness" closer to presentation
+    also renamed a couple of functions as stripe_xxx from strip_xxx for consistency - hope the grader doesn't care...
+    functionally complete

@@ -1,0 +1,50 @@
+24-Sep - DeMastri
+    - pulled initial code, reviewed with part 1 assignment directions
+    - started part 1, initially bypassing read syscall and take input from strings
+    - finished  syscalls for working command line to echo keyboard input 
+    ** committed part 1 - git commit ccf5ebd
+    - wrapped read bypass with USE_READTEST define to make it easier to
+    - completed part 1, refactored to allow main() to be clearer
+    ** committed part 1 - git commit d4cf271
+25-Sep - DeMastri
+    - review code for part 2 with assignment directions
+    - moved syscalls from part 1
+    - wrote 'echotest' to take a line of input, break it into parts and echo the parts
+    - wrote 'readtest' to test the file i/o syscalls to open and echo a text file, then close it
+    - write 'exec_file' and 'exectest' to load a file, map the loadable sections and run it
+    - with the syscalls and exec_file written and tested, wrote and verified the main command loop
+    ** committed part 2 - git commit 53af8ce
+    - review code for part 3 with assignment directions
+    - moved syscalls from part 2
+    - modified 'exec_file'->'load_file' as recommended to return the entry and load to a provided offset
+    - wrote 'nop' switching syscalls and manually started one process to validate the load method
+    - wrote the initial stack setup code and switched into process 1 - failed (as expected) on return
+    - finished the stack setup code - initially reset stack on every switch...loop - constant restarts
+    - fixed the switch code to properly maintain separate "active" variables for each of the 3 stacks
+    - tested by switching into process 1 -> saw switches/outputs as expected by the assignment spec
+    ** committed part 3 - git commit abfb4d7
+    - added this file 'progress.txt'
+    ** committed progress.txt - git commit 9fbd57a
+    - added code to gracefully handle empty command lines for part 2 (no seg fault...)
+    ** committed part 2 - git commit 9202702
+    - added prompt/output tag to part 1 to make those interactions easier to follow.
+    ** committed part 1 - git commit tbd
+
+28-Sep - Sultan
+    - part 1 parallel work
+    ** multiple commits
+
+1-Oct - Sultan 
+    - worked in makefile and sysdefs.h to conform to common usage style
+    ** single commit
+
+6-Oct - Sultan 
+    - completed parts 2-3 parallel work
+    ** multiple commits
+
+11-Oct - DeMastri
+    - merge conceptually (not in git), manual work after multiple team discussions on how best to completed
+    - factored out command line code for parts 1-2, and number of stylistic changes.
+    - added function documentation for all 3 parts
+    - final tests
+    ** multiple commits

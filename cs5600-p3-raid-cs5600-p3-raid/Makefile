@@ -1,0 +1,13 @@
+mirror-test: homework.c image.c mirror-test.c
+	gcc -g3 $^ -o $@
+
+stripe-test: homework.c image.c stripe-test.c
+	gcc -g3 $^ -o $@
+
+raid4-test: homework.c image.c raid4-test.c
+	gcc -g3 $^ -o $@
+
+# Add other targets for raid0 and raid4 tests
+
+clean:
+	rm -f mirror-test

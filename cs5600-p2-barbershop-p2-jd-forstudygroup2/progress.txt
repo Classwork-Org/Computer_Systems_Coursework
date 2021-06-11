@@ -1,0 +1,39 @@
+25-Oct - DeMastri
+	created jpd-solution branch
+	created progress.txt file and added to branch
+	created part-1.pdf as solution to part 1 and added to branch
+25-Oct - DeMastri
+	added working code for part 2 to the branch
+25-Oct - DeMastri
+	renamed progress..txt to progress.txt
+	forgot to update progress.txt (this file) in above commit - separate commit here for that
+25-Oct - DeMastri
+	added working code (and status) for part 3 to the branch
+25-Oct - DeMastri
+	made part 3 (really) work with wait()/signal(), fixed cust pre-enter time to 10s
+27-Oct - Sultan
+    discussed merits of DeMastri's approach and started independent approach
+27-Oct - Sultan
+    implemented part-2
+    found bug related to test script not handling corner case were a customer is faster than the barber at coming in to the shop vs barber waking update
+    noted bug case on piazza and logged specific run in slow_barber_fast_customer.txt
+27-Oct - Sultan
+    fixed compilation bug when reusing queue code from project 0
+    implemented part-3 
+    looked into statistics gathering code for timers and improved on DeMastri's statistics collection
+27-OCt - Sultan
+    added automatic statistics collection script (metric_collect.sh) based on compiler flags
+    script changes one of following parameter against defaults defined in project prompt:
+        BARBER_SLEEP_TIME
+        CUSTOMER_SLEEP_TIME
+        CUSTOMER_COUNT
+        BARBER_COUNT
+        MAX_CHAIR_COUNT
+    added metric aggregation script (metric_aggregate.py) that aggregates all metrics in a nice CSV file
+1-Nov - Sultan
+    updated progress.txt
+    added a "MAKE_TEST_SCRIPT_HAPPY" compiler flag + special compilation for it in make file
+        Flag controls printing for customers when they leave (splits it accross barber and customer)
+        This was done to handle and unhandled corner case in the test script
+        when flag is disabled (default compilation disables it) normal behavior occurs with printing (no cross printing between barbers and customers)
+    added part-1 pdf from DeMastri branch

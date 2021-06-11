@@ -1,0 +1,532 @@
+METRIC: BARBER_SLEEP_TIME 1 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7984
+INFO: Turned Away Customers: 296, 3.71%
+INFO: Average Time In Seat: 77.74%
+INFO: Average people in the shop: 1.94
+INFO: Average Time Spent In Shop: 2.53
+METRIC: BARBER_SLEEP_TIME 2 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 6289
+INFO: Turned Away Customers: 1497, 23.80%
+INFO: Average Time In Seat: 96.80%
+INFO: Average people in the shop: 3.58
+INFO: Average Time Spent In Shop: 7.48
+METRIC: BARBER_SLEEP_TIME 3 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5732
+INFO: Turned Away Customers: 2509, 43.77%
+INFO: Average Time In Seat: 99.29%
+INFO: Average people in the shop: 4.18
+INFO: Average Time Spent In Shop: 12.98
+METRIC: BARBER_SLEEP_TIME 4 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5451
+INFO: Turned Away Customers: 2978, 54.63%
+INFO: Average Time In Seat: 99.80%
+INFO: Average people in the shop: 4.43
+INFO: Average Time Spent In Shop: 17.91
+METRIC: BARBER_SLEEP_TIME 5 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5370
+INFO: Turned Away Customers: 3447, 64.19%
+INFO: Average Time In Seat: 99.83%
+INFO: Average people in the shop: 4.59
+INFO: Average Time Spent In Shop: 23.92
+METRIC: BARBER_SLEEP_TIME 6 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5284
+INFO: Turned Away Customers: 3673, 69.51%
+INFO: Average Time In Seat: 99.92%
+INFO: Average people in the shop: 4.66
+INFO: Average Time Spent In Shop: 28.97
+METRIC: BARBER_SLEEP_TIME 7 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5190
+INFO: Turned Away Customers: 3787, 72.97%
+INFO: Average Time In Seat: 99.92%
+INFO: Average people in the shop: 4.72
+INFO: Average Time Spent In Shop: 33.68
+METRIC: BARBER_SLEEP_TIME 8 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5129
+INFO: Turned Away Customers: 3861, 75.28%
+INFO: Average Time In Seat: 99.92%
+INFO: Average people in the shop: 4.73
+INFO: Average Time Spent In Shop: 37.34
+METRIC: BARBER_SLEEP_TIME 9 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5088
+INFO: Turned Away Customers: 3967, 77.97%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.78
+INFO: Average Time Spent In Shop: 42.55
+METRIC: BARBER_SLEEP_TIME 10 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5052
+INFO: Turned Away Customers: 4037, 79.91%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.81
+INFO: Average Time Spent In Shop: 47.47
+METRIC: BARBER_SLEEP_TIME 11 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5046
+INFO: Turned Away Customers: 4144, 82.12%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.83
+INFO: Average Time Spent In Shop: 53.67
+METRIC: BARBER_SLEEP_TIME 12 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5035
+INFO: Turned Away Customers: 4226, 83.93%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.85
+INFO: Average Time Spent In Shop: 60.13
+METRIC: BARBER_SLEEP_TIME 13 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4981
+INFO: Turned Away Customers: 4202, 84.36%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.85
+INFO: Average Time Spent In Shop: 62.28
+METRIC: BARBER_SLEEP_TIME 14 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4981
+INFO: Turned Away Customers: 4273, 85.79%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.86
+INFO: Average Time Spent In Shop: 69.00
+METRIC: BARBER_SLEEP_TIME 15 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4961
+INFO: Turned Away Customers: 4274, 86.15%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.86
+INFO: Average Time Spent In Shop: 70.99
+METRIC: BARBER_SLEEP_TIME 16 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4965
+INFO: Turned Away Customers: 4338, 87.37%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.88
+INFO: Average Time Spent In Shop: 78.08
+METRIC: BARBER_SLEEP_TIME 17 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4961
+INFO: Turned Away Customers: 4372, 88.13%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.88
+INFO: Average Time Spent In Shop: 83.19
+METRIC: BARBER_SLEEP_TIME 18 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4989
+INFO: Turned Away Customers: 4489, 89.98%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.91
+INFO: Average Time Spent In Shop: 98.65
+METRIC: BARBER_SLEEP_TIME 19 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4973
+INFO: Turned Away Customers: 4479, 90.07%
+INFO: Average Time In Seat: 99.94%
+INFO: Average people in the shop: 4.90
+INFO: Average Time Spent In Shop: 99.86
+METRIC: CUSTOMER_SLEEP_TIME 1 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 51172
+INFO: Turned Away Customers: 42869, 83.77%
+INFO: Average Time In Seat: 99.99%
+INFO: Average people in the shop: 4.85
+INFO: Average Time Spent In Shop: 5.84
+METRIC: CUSTOMER_SLEEP_TIME 2 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 26473
+INFO: Turned Away Customers: 18264, 68.99%
+INFO: Average Time In Seat: 99.96%
+INFO: Average people in the shop: 4.66
+INFO: Average Time Spent In Shop: 5.68
+METRIC: CUSTOMER_SLEEP_TIME 3 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 18356
+INFO: Turned Away Customers: 10079, 54.91%
+INFO: Average Time In Seat: 99.83%
+INFO: Average people in the shop: 4.43
+INFO: Average Time Spent In Shop: 5.35
+METRIC: CUSTOMER_SLEEP_TIME 4 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 14407
+INFO: Turned Away Customers: 6236, 43.28%
+INFO: Average Time In Seat: 99.40%
+INFO: Average people in the shop: 4.18
+INFO: Average Time Spent In Shop: 5.11
+METRIC: CUSTOMER_SLEEP_TIME 5 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 12109
+INFO: Turned Away Customers: 4053, 33.47%
+INFO: Average Time In Seat: 98.43%
+INFO: Average people in the shop: 3.91
+INFO: Average Time Spent In Shop: 4.85
+METRIC: CUSTOMER_SLEEP_TIME 6 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 10607
+INFO: Turned Away Customers: 2615, 24.65%
+INFO: Average Time In Seat: 96.80%
+INFO: Average people in the shop: 3.58
+INFO: Average Time Spent In Shop: 4.49
+METRIC: CUSTOMER_SLEEP_TIME 7 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 9506
+INFO: Turned Away Customers: 1643, 17.28%
+INFO: Average Time In Seat: 94.00%
+INFO: Average people in the shop: 3.17
+INFO: Average Time Spent In Shop: 4.03
+METRIC: CUSTOMER_SLEEP_TIME 8 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 8686
+INFO: Turned Away Customers: 1131, 13.02%
+INFO: Average Time In Seat: 91.46%
+INFO: Average people in the shop: 2.94
+INFO: Average Time Spent In Shop: 3.89
+METRIC: CUSTOMER_SLEEP_TIME 9 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 8115
+INFO: Turned Away Customers: 807, 9.94%
+INFO: Average Time In Seat: 88.98%
+INFO: Average people in the shop: 2.65
+INFO: Average Time Spent In Shop: 3.62
+METRIC: CUSTOMER_SLEEP_TIME 10 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7528
+INFO: Turned Away Customers: 582, 7.73%
+INFO: Average Time In Seat: 84.56%
+INFO: Average people in the shop: 2.38
+INFO: Average Time Spent In Shop: 3.42
+METRIC: CUSTOMER_SLEEP_TIME 11 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7017
+INFO: Turned Away Customers: 371, 5.29%
+INFO: Average Time In Seat: 81.55%
+INFO: Average people in the shop: 2.17
+INFO: Average Time Spent In Shop: 3.26
+METRIC: CUSTOMER_SLEEP_TIME 12 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 6578
+INFO: Turned Away Customers: 226, 3.44%
+INFO: Average Time In Seat: 77.21%
+INFO: Average people in the shop: 1.92
+INFO: Average Time Spent In Shop: 3.02
+METRIC: CUSTOMER_SLEEP_TIME 13 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 6215
+INFO: Turned Away Customers: 184, 2.96%
+INFO: Average Time In Seat: 73.51%
+INFO: Average people in the shop: 1.73
+INFO: Average Time Spent In Shop: 2.87
+METRIC: CUSTOMER_SLEEP_TIME 14 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5899
+INFO: Turned Away Customers: 136, 2.31%
+INFO: Average Time In Seat: 70.81%
+INFO: Average people in the shop: 1.62
+INFO: Average Time Spent In Shop: 2.81
+METRIC: CUSTOMER_SLEEP_TIME 15 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5593
+INFO: Turned Away Customers: 95, 1.70%
+INFO: Average Time In Seat: 66.81%
+INFO: Average people in the shop: 1.45
+INFO: Average Time Spent In Shop: 2.63
+METRIC: CUSTOMER_SLEEP_TIME 16 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5358
+INFO: Turned Away Customers: 75, 1.40%
+INFO: Average Time In Seat: 64.92%
+INFO: Average people in the shop: 1.37
+INFO: Average Time Spent In Shop: 2.60
+METRIC: CUSTOMER_SLEEP_TIME 17 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5080
+INFO: Turned Away Customers: 58, 1.14%
+INFO: Average Time In Seat: 60.73%
+INFO: Average people in the shop: 1.18
+INFO: Average Time Spent In Shop: 2.35
+METRIC: CUSTOMER_SLEEP_TIME 18 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4834
+INFO: Turned Away Customers: 36, 0.74%
+INFO: Average Time In Seat: 58.00%
+INFO: Average people in the shop: 1.09
+INFO: Average Time Spent In Shop: 2.28
+METRIC: CUSTOMER_SLEEP_TIME 19 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4662
+INFO: Turned Away Customers: 34, 0.73%
+INFO: Average Time In Seat: 56.85%
+INFO: Average people in the shop: 1.05
+INFO: Average Time Spent In Shop: 2.28
+METRIC: CUSTOMER_COUNT 1 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 829
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 10.24%
+INFO: Average people in the shop: 0.10
+INFO: Average Time Spent In Shop: 1.24
+METRIC: CUSTOMER_COUNT 2 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 1662
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 20.02%
+INFO: Average people in the shop: 0.22
+INFO: Average Time Spent In Shop: 1.35
+METRIC: CUSTOMER_COUNT 3 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 2509
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 30.26%
+INFO: Average people in the shop: 0.37
+INFO: Average Time Spent In Shop: 1.49
+METRIC: CUSTOMER_COUNT 4 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 3359
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 40.60%
+INFO: Average people in the shop: 0.56
+INFO: Average Time Spent In Shop: 1.66
+METRIC: CUSTOMER_COUNT 5 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4113
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 50.24%
+INFO: Average people in the shop: 0.79
+INFO: Average Time Spent In Shop: 1.92
+METRIC: CUSTOMER_COUNT 6 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 4880
+INFO: Turned Away Customers: 7, 0.14%
+INFO: Average Time In Seat: 59.44%
+INFO: Average people in the shop: 1.06
+INFO: Average Time Spent In Shop: 2.18
+METRIC: CUSTOMER_COUNT 7 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 5560
+INFO: Turned Away Customers: 38, 0.68%
+INFO: Average Time In Seat: 68.00%
+INFO: Average people in the shop: 1.41
+INFO: Average Time Spent In Shop: 2.55
+METRIC: CUSTOMER_COUNT 8 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 6181
+INFO: Turned Away Customers: 134, 2.17%
+INFO: Average Time In Seat: 74.44%
+INFO: Average people in the shop: 1.72
+INFO: Average Time Spent In Shop: 2.85
+METRIC: CUSTOMER_COUNT 9 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 6881
+INFO: Turned Away Customers: 340, 4.94%
+INFO: Average Time In Seat: 81.23%
+INFO: Average people in the shop: 2.10
+INFO: Average Time Spent In Shop: 3.20
+METRIC: CUSTOMER_COUNT 10 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7528
+INFO: Turned Away Customers: 582, 7.73%
+INFO: Average Time In Seat: 84.56%
+INFO: Average people in the shop: 2.38
+INFO: Average Time Spent In Shop: 3.42
+METRIC: CUSTOMER_COUNT 11 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 8254
+INFO: Turned Away Customers: 962, 11.65%
+INFO: Average Time In Seat: 88.78%
+INFO: Average people in the shop: 2.69
+INFO: Average Time Spent In Shop: 3.70
+METRIC: CUSTOMER_COUNT 12 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 8928
+INFO: Turned Away Customers: 1445, 16.19%
+INFO: Average Time In Seat: 91.29%
+INFO: Average people in the shop: 2.95
+INFO: Average Time Spent In Shop: 3.95
+METRIC: CUSTOMER_COUNT 13 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 9683
+INFO: Turned Away Customers: 2039, 21.06%
+INFO: Average Time In Seat: 93.48%
+INFO: Average people in the shop: 3.23
+INFO: Average Time Spent In Shop: 4.23
+METRIC: CUSTOMER_COUNT 14 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 10518
+INFO: Turned Away Customers: 2687, 25.55%
+INFO: Average Time In Seat: 95.21%
+INFO: Average people in the shop: 3.41
+INFO: Average Time Spent In Shop: 4.36
+METRIC: CUSTOMER_COUNT 15 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 11360
+INFO: Turned Away Customers: 3446, 30.33%
+INFO: Average Time In Seat: 96.02%
+INFO: Average people in the shop: 3.57
+INFO: Average Time Spent In Shop: 4.51
+METRIC: CUSTOMER_COUNT 16 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 12197
+INFO: Turned Away Customers: 4208, 34.50%
+INFO: Average Time In Seat: 97.29%
+INFO: Average people in the shop: 3.71
+INFO: Average Time Spent In Shop: 4.64
+METRIC: CUSTOMER_COUNT 17 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 13026
+INFO: Turned Away Customers: 4974, 38.19%
+INFO: Average Time In Seat: 97.66%
+INFO: Average people in the shop: 3.85
+INFO: Average Time Spent In Shop: 4.78
+METRIC: CUSTOMER_COUNT 18 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 13897
+INFO: Turned Away Customers: 5844, 42.05%
+INFO: Average Time In Seat: 98.23%
+INFO: Average people in the shop: 3.96
+INFO: Average Time Spent In Shop: 4.92
+METRIC: CUSTOMER_COUNT 19 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 14764
+INFO: Turned Away Customers: 6626, 44.88%
+INFO: Average Time In Seat: 98.58%
+INFO: Average people in the shop: 4.06
+INFO: Average Time Spent In Shop: 4.99
+METRIC: MAX_CHAIR_COUNT 1 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 8838
+INFO: Turned Away Customers: 2943, 33.30%
+INFO: Average Time In Seat: 71.97%
+INFO: Average people in the shop: 1.10
+INFO: Average Time Spent In Shop: 1.87
+METRIC: MAX_CHAIR_COUNT 2 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 8292
+INFO: Turned Away Customers: 1852, 22.33%
+INFO: Average Time In Seat: 77.49%
+INFO: Average people in the shop: 1.56
+INFO: Average Time Spent In Shop: 2.43
+METRIC: MAX_CHAIR_COUNT 3 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7916
+INFO: Turned Away Customers: 1112, 14.05%
+INFO: Average Time In Seat: 83.50%
+INFO: Average people in the shop: 2.07
+INFO: Average Time Spent In Shop: 3.04
+METRIC: MAX_CHAIR_COUNT 4 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7528
+INFO: Turned Away Customers: 582, 7.73%
+INFO: Average Time In Seat: 84.56%
+INFO: Average people in the shop: 2.38
+INFO: Average Time Spent In Shop: 3.42
+METRIC: MAX_CHAIR_COUNT 5 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7291
+INFO: Turned Away Customers: 235, 3.22%
+INFO: Average Time In Seat: 85.35%
+INFO: Average people in the shop: 2.56
+INFO: Average Time Spent In Shop: 3.63
+METRIC: MAX_CHAIR_COUNT 6 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7142
+INFO: Turned Away Customers: 95, 1.33%
+INFO: Average Time In Seat: 86.45%
+INFO: Average people in the shop: 2.80
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 7 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 14, 0.20%
+INFO: Average Time In Seat: 85.84%
+INFO: Average people in the shop: 2.75
+INFO: Average Time Spent In Shop: 3.88
+METRIC: MAX_CHAIR_COUNT 8 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 9 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 10 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 11 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 12 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 13 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 14 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 15 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 16 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 17 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 18 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98
+METRIC: MAX_CHAIR_COUNT 19 
+INFO: Simulation Time: 10001.000000
+INFO: Total Customers: 7099
+INFO: Turned Away Customers: 0, 0.00%
+INFO: Average Time In Seat: 86.94%
+INFO: Average people in the shop: 2.83
+INFO: Average Time Spent In Shop: 3.98

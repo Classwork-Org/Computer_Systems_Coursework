@@ -1,0 +1,68 @@
+testing plan for each part of this project:
+
+---------- mirror ------------
+the actions we have are create / read / write / close
+the parameters that might be interesting are:
+	r/w starting at blk 0 or >0, illegal values, 1 or multiple block reads
+each of these can be tested in "test modes":
+	normal mode - both drives available
+	degraded mode a - with one drive dead: a
+	after degraded drive a replaced
+	degraded mode b - with one drive dead: b
+	after degraded drive b replaced
+	with both drives failed
+		all tests should work as in normal mode for all cases except the last - all should fail
+
+0 - create test images - 5 blocks each
+	a 1-2 - two with data in each block set to the block number
+	b 1-2 - two with data in each block set serially to 'a-z' repeating
+	c 1-2 - two set to all zeros
+1 - create tests
+	a - pass different size drives in - fail expected
+	b - pass one null drives in - fail expected
+	c - pass both null drives in - fail expected
+	d - pass same size drives in a:block, b:alpha - pass expected mirror reports correct size
+			test to show image contents not affected on create
+			- read block 1 - should be data from first image - "block" data
+			- fail drive 1
+			- read block 1 - should be data from second image "alpha" data
+			- replace drive 1 with a clone of original first image
+			- read block 1 - should be data from second image (drive 1 overwritten on replace)
+
+for each test mode
+	create mirror from "block" images
+	fail drives (or not) appropriate to this mode
+	2 - read tests
+		read (start,len) and verify results:  (0,1), (1,1), (0,3), (2,3) should all pass
+		read (-1,0), (0,0), (2,-2), (0,6), (2,4) - should all fail
+		NOTE - if test mode is "both drives fail", then all read tests should fail
+	3 - write tests
+		write identifiable data to (start,len) and verify results across entire length (should ONLY write requested blocks):
+			(0,1), (1,1), (0,3), (2,3) should all pass
+		write (-1,0), (0,0), (2,-2), (0,6), (2,4) - should all fail
+		NOTE - if test mode is "both drives fail", then all write tests should fail
+	4 - close test
+		close mirror
+		try to read / write / replace drive - each should fail.
+		final "mirror-modex-test-result-image-d" should reflect expected results for manual inspection
+			where x is 1-6 (normal, deg a, deg b repl, deg b, deg b repl, both fail)
+			where d is drive 'a' or 'b'
+
+---------- stripe ------------
+similar to mirror, except that 
+  * no failures are tolerated
+  * updates to stripes need to be managed properly across different disks
+
+create-tests
+read-tests
+write-tests
+
+---------- raid04 ------------
+similar to mirror in that data is duplicated so it is fault tolerant 
+  * same tests as mirror should be reusable, except for failures across all drives including parity
+
+create-tests
+read-tests
+write-tests
+
+----------  end   ------------
